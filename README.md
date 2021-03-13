@@ -11,3 +11,7 @@ Input Format
     The first line of input contains an integer Test_cases denoting the total 
     number of test cases.
     Each test case contains a string.
+
+Output Format
+
+    Print length of the longest substring of length 2k.
